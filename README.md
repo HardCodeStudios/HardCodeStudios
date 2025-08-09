@@ -39,7 +39,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=HardCodeStudios&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 ## <𝐻𝑎𝑟𝑑𝐶𝑜𝑑𝑒/> 𝑆𝑡𝑢𝑑𝑖𝑜𝑠
-![Discord Banner 2](https://discordapp.com/api/guilds/716696767407718493/widget.png?style=banner2)
+![Discord Banner 2](https://discordapp.com/api/guilds/1401499501822214194/widget.png?style=banner2)
 
 [https://discord.gg/xn5ERtYwWg](https://discord.gg/2CNScnQR3r)
 
