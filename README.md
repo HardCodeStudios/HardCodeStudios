@@ -30,6 +30,8 @@
 ![Audacity Badge](https://img.shields.io/badge/Audacity-31A8FF?logo=audacity&logoColor=fff&style=for-the-badge)
 ![GitKraken Badge](https://img.shields.io/badge/GitKraken-31A8FF?logo=gitkraken&logoColor=fff&style=for-the-badge)
 
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HardCodeStudios&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeStudios&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -39,8 +41,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=HardCodeStudios&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 ## <𝐻𝑎𝑟𝑑𝐶𝑜𝑑𝑒/> 𝑆𝑡𝑢𝑑𝑖𝑜𝑠
-![Discord Banner 2](https://discordapp.com/api/guilds/1401624237848002691/widget.png?style=banner2)
-
 [https://discord.gg/xn5ERtYwWg](https://discord.gg/2CNScnQR3r)
 
 
