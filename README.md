@@ -30,6 +30,18 @@
 ![Audacity Badge](https://img.shields.io/badge/Audacity-31A8FF?logo=audacity&logoColor=fff&style=for-the-badge)
 ![GitKraken Badge](https://img.shields.io/badge/GitKraken-31A8FF?logo=gitkraken&logoColor=fff&style=for-the-badge)
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZioMark13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZioMark13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ZioMark13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ZioMark13&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <!--
 **HardCodeStudios/HardCodeStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
